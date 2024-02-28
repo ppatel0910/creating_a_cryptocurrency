@@ -10,3 +10,5 @@
 ### A fungible token that’s ERC-20 compliant and that will get minted via a crowdsale contract that you create based on the Crowdsale contract from the Solidity library.
 
 ### A crowdsale contract that you create, which manages the entire crowdsale process. Specifically, it will allow users to send ether to the contract and receive KAI, or KaseiCoin tokens, in return. Your contract will automatically mint the tokens and distribute them to buyers in one transaction.
+
+## Results
